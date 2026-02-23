@@ -1,3 +1,0 @@
-requeteInteg_pts_suppr_hydro.txt
-requeteInteg_ligne_suppr_hydro.txt
-requeteInteg_R_hydro.txt

@@ -1,7 +1,0 @@
-requeteACID-V2_campings_datatourisme.txt
-requeteACID-V2_campings_datatourisme_création.txt
-requeteACID-V2_campings_datatourisme_validation.txt
-requeteACID-V2_campings_datatourisme_modification.txt
-requeteACID-V2_campings_datatourisme_suppression.txt
-requeteACID-V2_campings_datatourisme_bdu_non_a.txt
-requeteACID-V2_campings_datatourisme_liens_inc.txt

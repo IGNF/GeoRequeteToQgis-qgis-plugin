@@ -1,6 +1,0 @@
-requeteACID-V2_equipement_steu_creation.txt
-requeteACID-V2_equipement_steu_modification.txt
-requeteACID-V2_equipement_steu_validation.txt
-requeteACID-V2_equipement_steu_suppression.txt
-requeteACID-V2_equipement_steu_bdu_non_apparie.txt
-requeteACID-V2_liens_incoherents.txt

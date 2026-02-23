@@ -1,1 +1,0 @@
-Select From "Transport", "Piste d'aérodrome" Where ("Etat différentiel" = "Modifié") Options(Select);

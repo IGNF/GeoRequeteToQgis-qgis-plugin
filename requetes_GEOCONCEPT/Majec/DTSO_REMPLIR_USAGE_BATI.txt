@@ -1,3 +1,0 @@
-requeteInit bati protégé dans ZIPVA.txt
-requeteREMPLIR_USAGE_COMMERCIAL_ET_SERVICES.txt
-requeteREMPLIR_USAGE_INDUSTRIEL.txt

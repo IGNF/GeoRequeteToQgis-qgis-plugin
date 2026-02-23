@@ -1,1 +1,0 @@
-Select From "Transport", "Tronçon de route" Where ("Fictif" <> "1" And "Largeur de chaussée" = "0.0" And "Nature" <> "Bac ou liaison maritime" And "Etat de l'objet" <> "En construction" And "Etat de l'objet" <> "En projet" And "Source restitution" = <"Source de restitution =">) Options(Select);

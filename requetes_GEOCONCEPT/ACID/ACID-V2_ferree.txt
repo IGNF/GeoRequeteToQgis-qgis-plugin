@@ -1,9 +1,0 @@
-requeteACID-V2_ferree.txt
-requeteACID-V2_ferree_creation_gare.txt
-requeteACID-V2_ferree_creation_passage_a_niveau.txt
-requeteACID-V2_ferree_creation_refus.txt
-requeteACID-V2_ferree_modification.txt
-requeteACID-V2_ferree_validation.txt
-requeteACID-V2_ferree_suppression.txt
-requeteACID-V2_ferree_bdu_non_apparie.txt
-requeteACID-V2_liens_incoherents.txt

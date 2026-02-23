@@ -1,2 +1,0 @@
-requetePOTENTIELOUBLI.txt
-requeteACONSERVER.txt

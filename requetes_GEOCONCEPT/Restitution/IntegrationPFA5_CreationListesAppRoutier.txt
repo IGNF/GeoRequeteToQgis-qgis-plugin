@@ -1,3 +1,0 @@
-requetePFA_BDUNI.txt
-requetePFA_RESTITUTION.txt
-requetePFA_LIGNE_SUPPR.txt

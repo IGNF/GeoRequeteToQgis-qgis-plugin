@@ -1,1 +1,0 @@
-Select From "ME Equipement", "Aérodrome" Where ("Etat différentiel" = "Créé") Options(Select);

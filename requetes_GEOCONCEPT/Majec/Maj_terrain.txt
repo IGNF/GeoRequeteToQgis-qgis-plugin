@@ -1,2 +1,0 @@
-requete.Communes_a_voir_sur_le_terrain.txt
-requete.Evolutions_Alerte_terrain.txt

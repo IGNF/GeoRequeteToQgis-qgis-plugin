@@ -1,3 +1,0 @@
-requeteBDUNI.txt
-requeteRESTITUTION.txt
-requeteLIGNESUPPR.txt

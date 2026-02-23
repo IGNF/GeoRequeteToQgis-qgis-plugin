@@ -1,1 +1,0 @@
-Select From "ME Toponymie", "Point remarquable du relief" Where ("Etat différentiel" = "Créé") Options(Select);

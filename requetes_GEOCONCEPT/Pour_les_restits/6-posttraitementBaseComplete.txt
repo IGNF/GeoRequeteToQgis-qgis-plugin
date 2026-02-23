@@ -1,8 +1,0 @@
-requeteRestitChampsNonRemplis.txt
-requeteRestitIDGC0MauvaisesClasses.txt
-requeteRestitRPont.txt
-requeteRestitRTronconSup0.txt
-requeteRestitRTronconInf0.txt
-requeteRestitExportRObjets.txt
-requeteRestitPTSupprbati_HorsBatiment.txt
-requeteRestitPTSuppr_SurBatiment.txt

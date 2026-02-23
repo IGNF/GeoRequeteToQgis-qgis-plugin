@@ -1,1 +1,0 @@
-Select From "Documentaire", "Evolution ponctuelle" Where ("Etat différentiel" = "Créé") Options(Select);

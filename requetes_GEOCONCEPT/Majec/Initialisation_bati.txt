@@ -1,4 +1,0 @@
-requeteInit bati protégé dans ZIPVA.txt
-requeteInit bati inters ZAI Service fictif.txt
-requeteInit bati inters ZAI Service non fictif.txt
-requeteInit bati inters ZAI Mairie non fictif.txt

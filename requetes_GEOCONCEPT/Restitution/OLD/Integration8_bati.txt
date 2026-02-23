@@ -1,7 +1,0 @@
-requeteInteg_Ptsuppr_bati.txt
-requeteInteg_Bati_en_ConstProjet_RBati.txt
-requeteInteg_Bati_en_ConstProjet.txt
-requeteInteg_Ptsuppr_bati_inters_bati_qcqe.txt
-requeteInteg_Bati_qcqe_inters_ptsuppr_bati.txt
-requeteInteg_Bati_non_qcqe_a_permut.txt
-requeteInteg_Bati_non_qcqe_a_suppr.txt

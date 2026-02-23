@@ -1,1 +1,0 @@
-Select From "R_Transport", "R_Tronçon de route" Where ("Accès véhicule léger" <> <No Value>) Options(Select);

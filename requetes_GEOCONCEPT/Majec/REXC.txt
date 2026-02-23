@@ -1,3 +1,0 @@
-requeteREXC Droite ou Gauche vide.txt
-requeteREXC Nom 2 identique a Nom 1.txt
-requeteREXC Nom 2 sur troncon sans IDfpb.txt

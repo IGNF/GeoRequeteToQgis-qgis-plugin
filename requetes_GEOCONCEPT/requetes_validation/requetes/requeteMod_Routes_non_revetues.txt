@@ -1,1 +1,0 @@
-Select From "Transport", "Tronçon de route" Where ((("Nature" = "Bac ou liaison maritime" Or "Nature" = "Sentier" Or "Nature" = "Chemin" Or "Nature" = "Escalier" Or "Nature" = "Piste cyclable" Or "Nature" = "Route empierrée")) And "Etat différentiel" = "Modifié") Options(Select);

@@ -1,1 +1,0 @@
-Select From "ME Réseau routier", "Tronçon de route" Where ("Etat différentiel" = "Détruit" And "Vocation" = "Piste cyclable") Options(Select);

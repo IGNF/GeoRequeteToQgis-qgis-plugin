@@ -1,4 +1,0 @@
-requetePiles legitimes sans adresses avec CTRL.txt
-requetePiles avec valeurs aberrantes.txt
-requetePiles prises en compte pas corrigees avec CTRL.txt
-requetePiles corrigees pas prises en compte avec CTRL.txt

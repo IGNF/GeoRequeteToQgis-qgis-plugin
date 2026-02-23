@@ -1,2 +1,0 @@
-Select From "Bâti", "Bâtiment" Where (("Nature" = "Indifférenciée" Or "Nature" = "Industriel, agricole ou commercial") And ("Usage 1" = "Indifférencié" Or "Usage 1" = "Résidentiel" Or "Usage 1" = "Annexe")) Options(Select);
-Select From "Restitution", "Point suppr bâti" Options(Select,Memorize) Topo(Intersecting Selection);

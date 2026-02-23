@@ -1,8 +1,0 @@
-requeteACID-V2_montagne.txt
-requeteACID-V2_montagne_creation.txt
-requeteACID-V2_montagne_modification.txt
-requeteACID-V2_montagne_validation.txt
-requeteACID-V2_montagne_suppression.txt
-requeteACID-V2_montagne_bdu_non_apparie.txt
-requeteACID-V2_liens_incoherents.txt
-

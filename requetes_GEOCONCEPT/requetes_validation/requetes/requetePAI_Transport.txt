@@ -1,1 +1,0 @@
-Select From "Transport", "Equipement de transport" Where ("Etat différentiel" = "Créé") Options(Select);

@@ -1,2 +1,0 @@
-requeteBDUNI.txt
-requetePTSUPPR.txt

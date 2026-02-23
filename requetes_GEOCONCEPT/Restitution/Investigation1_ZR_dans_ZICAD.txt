@@ -1,2 +1,0 @@
-requeteZIPVA.txt
-requete.ZR_dans_sel.txt

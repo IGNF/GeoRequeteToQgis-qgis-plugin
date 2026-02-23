@@ -1,5 +1,0 @@
-requeteACID_hebergement_dtso.txt
-requeteACID_hebergement_dtso_creation.txt
-requeteACID_hebergement_dtso_modification.txt
-requeteACID_hebergement_dtso_suppression.txt
-requeteACID_hebergement_dtso_bdu_non_apparie.txt

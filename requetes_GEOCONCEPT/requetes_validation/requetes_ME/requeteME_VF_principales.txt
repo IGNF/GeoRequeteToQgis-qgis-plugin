@@ -1,1 +1,0 @@
-Select From "ME Réseau ferré", "Tronçon de voie ferrée" Where ("Etat différentiel" = "Créé" And ("Nature" = "TGV" Or "Nature" = "Voie normale")) Options(Select);

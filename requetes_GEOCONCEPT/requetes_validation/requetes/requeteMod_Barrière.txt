@@ -1,1 +1,0 @@
-Select From "Transport", "Point du réseau" Where ("Nature" = "Barrière" And "Etat différentiel" = "Modifié") Options(Select);

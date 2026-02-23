@@ -1,5 +1,0 @@
-requeteComptage_MAJ_Bati.txt
-requeteComptage_MAJ_Hydro.txt
-requeteComptage_MAJ_Transport.txt
-requeteComptage_MAJ_PT_LIGN_SUPPR.txt
-requeteComptage_MAJ_SA.txt

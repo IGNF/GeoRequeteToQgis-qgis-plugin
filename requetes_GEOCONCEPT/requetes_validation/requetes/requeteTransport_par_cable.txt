@@ -1,1 +1,0 @@
-Select From "Transport", "Transport par câble" Where ("Etat différentiel" = "Créé") Options(Select);

@@ -1,1 +1,0 @@
-Select From "Bâti", "Pylône" Where ("Etat différentiel" = "Modifié") Options(Select);

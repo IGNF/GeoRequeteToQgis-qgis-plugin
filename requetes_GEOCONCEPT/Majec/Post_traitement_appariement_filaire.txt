@@ -1,4 +1,0 @@
-requete.CC_post_trait_non_app.txt
-requete.CC_post_trait_insee_vide.txt
-requete.CC_post_trait_appariement_multiple.txt
-requete.CC_post_trait_modif_rue_valid.txt

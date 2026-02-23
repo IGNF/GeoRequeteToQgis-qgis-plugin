@@ -1,2 +1,0 @@
-requeteReq_Pts_suppr_bati_intersect_bati_qcqe.txt
-requeteReq_Bati_intersect_pts_suppr_bati.txt

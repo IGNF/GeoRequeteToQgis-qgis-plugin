@@ -1,4 +1,0 @@
-requetePREDIF_MaN_Sens_circu.txt
-requetePREDIF_Imp1234Nbv0.txt
-requetePREDIF_Imp1234Larg0.txt
-requetePREDIF_Imp5_Empierre_Chemin.txt

@@ -1,3 +1,0 @@
-requeteUB_Alerte Sémantique.txt
-requeteUB_Alerte Alti.txt
-requeteUB_Bati BDTopo seuls.txt

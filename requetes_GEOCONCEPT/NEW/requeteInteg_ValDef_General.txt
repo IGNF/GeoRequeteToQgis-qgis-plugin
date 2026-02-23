@@ -1,1 +1,0 @@
-Select From "R_Transport", "R_Tronçon de route" Where ("Sens de circulation" <> "Double sens" Or "Bornes début interpolées" <> "0" Or "Bornes fin interpolées" <> "0" Or "Itinéraire vert" <> "0") Options(Select);

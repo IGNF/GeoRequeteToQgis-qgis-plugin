@@ -1,1 +1,0 @@
-Select From "Adresses", "Adresse" Where ("Etat différentiel" = "Créé" And "Méthode" = "Calcul") Options(Select);

@@ -1,6 +1,0 @@
-requeteACID-V2_locale_sdis.txt
-requeteACID-V2_locale_sdis_creation.txt
-requeteACID-V2_locale_sdis_validation.txt
-requeteACID-V2_locale_sdis_modification.txt
-requeteACID-V2_locale_sdis_suppression.txt
-requeteACID-V2_locale_sdis_ bdu_non_apparie.txt

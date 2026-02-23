@@ -1,1 +1,0 @@
-Select From "Lieux nommés", "Détail orographique" Where ("Etat différentiel" = "Créé") Options(Select);

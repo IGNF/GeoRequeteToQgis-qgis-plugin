@@ -1,7 +1,0 @@
-requeteACID-V2_hebergement.txt
-requeteACID-V2_hebergement_création.txt
-requeteACID-V2_hebergement_validation.txt
-requeteACID-V2_hebergement_modification.txt
-requeteACID-V2_hebergement_suppression.txt
-requeteACID-V2_hebergement _bdu_non_apparié.txt
-requeteACID-V2_liens_incoherents.txt

@@ -1,1 +1,0 @@
-Select From "ME Réseau routier", "Tronçon de route" Where ("Etat différentiel" = "Créé" And "Vocation" = "Bretelle") Options(Select);

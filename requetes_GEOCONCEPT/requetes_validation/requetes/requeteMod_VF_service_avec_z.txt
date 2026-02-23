@@ -1,1 +1,0 @@
-Select From "Transport", "Tronçon de voie ferrée" Where (("Nature" = "Voie de service" Or "Nature" = "Voie ferrée non exploitée") And ("Méthode d'acquisition altimétrique" <> "Pas de Z" And "Etat différentiel" = "Modifié")) Options(Select);

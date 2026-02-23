@@ -1,1 +1,0 @@
-Select From "Transport", "Voie ferrée nommée" Where ("Etat différentiel" = "Créé") Options(Select);

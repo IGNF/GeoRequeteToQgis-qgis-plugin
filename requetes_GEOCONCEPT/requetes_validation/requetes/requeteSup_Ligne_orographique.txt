@@ -1,1 +1,0 @@
-Select From "Bâti", "Ligne orographique" Where ("Etat différentiel" = "Détruit") Options(Select);

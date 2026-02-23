@@ -1,5 +1,0 @@
-requeteALERTENATDIFF.txt
-requeteALERTEPOS.txt
-requeteALERTEACCES.txt
-requeteALERTESENS12.txt
-requeteALERTEGDDIFF.txt

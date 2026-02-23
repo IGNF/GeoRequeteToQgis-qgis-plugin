@@ -1,1 +1,0 @@
-Select From "Bâti", "Bâtiment" Where ("Nature" = "Indifférenciée" And "Etat différentiel" = "Créé") Options(Select);

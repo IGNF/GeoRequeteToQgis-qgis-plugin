@@ -1,4 +1,0 @@
-requeteMDCommunes.txt
-requeteMes communes.txt
-requete.MAN_Eglise_NonReligieux.txt
-requete.MAN_ReservoirProcheCooperative.txt

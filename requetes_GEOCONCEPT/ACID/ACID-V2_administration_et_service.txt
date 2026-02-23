@@ -1,7 +1,0 @@
-requeteACID-V2_ad_serv.txt
-requeteACID-V2_ad_serv_creation.txt
-requeteACID-V2_ad_serv_validation.txt
-requeteACID-V2_ad_serv_modification.txt
-requeteACID-V2_ad_serv_suppression.txt
-requeteACID-V2_ad_serv _bdu_non_apparie.txt
-requeteACID-V2_liens_incoherents.txt

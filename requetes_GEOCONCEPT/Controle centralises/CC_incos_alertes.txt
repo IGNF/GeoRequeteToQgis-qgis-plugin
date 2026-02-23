@@ -1,2 +1,0 @@
-requete.CC_incos_alertes.txt
-requete.Commune_incos_alertes.txt

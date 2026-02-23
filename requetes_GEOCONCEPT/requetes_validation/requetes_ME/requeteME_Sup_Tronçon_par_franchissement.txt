@@ -1,1 +1,0 @@
-Select From "ME Franchissement", "Tronçon passant par franchissement" Where ("Etat différentiel" = "Détruit") Options(Select);

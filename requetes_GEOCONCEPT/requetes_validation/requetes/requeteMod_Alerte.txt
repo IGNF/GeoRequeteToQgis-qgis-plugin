@@ -1,1 +1,0 @@
-Select From "Documentaire", "Alerte" Where ("Etat différentiel" = "Modifié") Options(Select);

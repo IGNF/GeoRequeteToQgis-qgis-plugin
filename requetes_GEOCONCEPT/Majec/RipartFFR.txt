@@ -1,2 +1,0 @@
-requetePREDIF_RipartFFR_reponses.txt
-requetePREDIF_RipartFFR_autres.txt

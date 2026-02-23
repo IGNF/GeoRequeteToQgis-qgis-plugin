@@ -1,1 +1,0 @@
-Select From "Administratif", "Surface de commune" Where ("Etat différentiel" = "Détruit") Options(Select);

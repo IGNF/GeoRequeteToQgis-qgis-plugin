@@ -1,4 +1,0 @@
-requeteRestitChampsNonRemplis.txt
-requeteRestitIDGC0MauvaisesClasses.txt
-requeteRestitZRVides.txt
-requeteRestitRLineairesZMoyen.txt

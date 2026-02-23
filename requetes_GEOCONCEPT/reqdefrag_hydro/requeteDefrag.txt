@@ -1,2 +1,0 @@
-1	Select From "Hydrographie", "Tronçon hydrographique" Options(Select) Topo(Intersecting "Mes communes");
-2	Select From "Hydrographie", "Tronçon hydrographique" Options(Select) Topo(OnlySelected, IncludedIn "ZC" Strict );

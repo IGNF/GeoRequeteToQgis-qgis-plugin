@@ -1,1 +1,0 @@
-Select From "ME Toponymie", "Bâtiment religieux ou touristique" Where ("Etat différentiel" = "Modifié") Options(Select);

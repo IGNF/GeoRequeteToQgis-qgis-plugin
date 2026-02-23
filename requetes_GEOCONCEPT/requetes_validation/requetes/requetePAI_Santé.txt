@@ -1,1 +1,0 @@
-Select From "Services et activités", "Zone d'activité ou d'intérêt" Where ("Catégorie" = "Santé" And "Etat différentiel" = "Créé") Options(Select);

@@ -1,8 +1,0 @@
-requeteACID-V2_sante.txt
-requeteACID-V2_sante_creation.txt
-requeteACID-V2_sante_validation.txt
-requeteACID-V2_sante_modification.txt
-requeteACID-V2_sante_suppression.txt
-requeteACID-V2_sante_bdu_non_apparie.txt
-requeteACID-V2_liens_incoherents.txt
-

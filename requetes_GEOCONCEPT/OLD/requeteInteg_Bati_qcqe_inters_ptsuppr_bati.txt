@@ -1,1 +1,0 @@
-Select From "Bâti", "Bâtiment" Where ((("Nature" = "Indifférenciée" Or "Nature" = "Industriel, agricole ou commercial") And ("Usage 1" = "Indifférencié" Or "Usage 1" = "Résidentiel" Or "Usage 1" = "Annexe")) And "Etat de l'objet" <> "En construction" And "Etat de l'objet" <> "En projet") Options(Select) Topo(Intersecting Selection);

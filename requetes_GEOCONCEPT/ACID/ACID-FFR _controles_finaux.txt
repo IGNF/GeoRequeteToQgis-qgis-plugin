@@ -1,4 +1,0 @@
-requeteACID-FFR_controle_identifiants_sources.txt
-requeteACID-FFR_controle_sources.txt
-requeteACID-FFR_motif_refus.txt
-requeteACID-V2_liens_incoherents.txt

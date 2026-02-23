@@ -1,2 +1,0 @@
-requeteValDef_AccesVehiculeLeger.txt
-requeteValDef_Importance.txt
