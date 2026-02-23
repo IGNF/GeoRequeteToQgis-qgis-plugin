@@ -1,0 +1,1 @@
+Select From "ME Réseau ferré", "Noeud ferré" Where ("Etat différentiel" = "Créé") Options(Select);

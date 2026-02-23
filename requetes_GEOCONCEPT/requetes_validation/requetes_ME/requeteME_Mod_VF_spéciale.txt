@@ -1,0 +1,1 @@
+Select From "ME Réseau ferré", "Tronçon de voie ferrée" Where ("Etat différentiel" = "Modifié" ANd ("Nature" = "Embranchement particulier" Or "Nature" = "Funiculaire" Or "Nature" = "Voie à crémaillère")) Options(Select);

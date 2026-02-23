@@ -1,0 +1,1 @@
+Select From "ME Equipement", "Métro aérien" Where ("Etat différentiel" = "Modifié") Options(Select);

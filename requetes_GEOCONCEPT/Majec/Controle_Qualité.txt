@@ -1,0 +1,15 @@
+requeteCC_CQ_Priorité1_linéaire.txt
+requeteCC_CQ_Priorité1_ponctuel.txt
+requeteCC_CQ_Priorité1_surf.txt
+requeteCC_CQ_Priorité2_linéaire.txt
+requeteCC_CQ_Priorité2_ponctuel.txt
+requeteCC_CQ_Priorité2_surf.txt
+requeteCC_CQ_Priorité3_linéaire.txt
+requeteCC_CQ_Priorité3_ponctuel.txt
+requeteCC_CQ_Priorité3_surf.txt
+requeteCC_CQ_Alertes_linéaire.txt
+requeteCC_CQ_Alertes_ponctuel.txt
+requeteCC_CQ_Alertes_surf.txt
+requeteCC_CQ_BDComp_linéaire.txt
+requeteCC_CQ_BDComp_ponctuel.txt
+requeteCC_CQ_BDComp_surf.txt

@@ -1,0 +1,1 @@
+Select From "ME Réseau routier", "Tronçon de route" Where ("Etat différentiel" = "Détruit" And "Etat physique" <> "Revêtu") Options(Select);

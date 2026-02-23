@@ -1,0 +1,1 @@
+Select From "ME Equipement", "Construction élevée" Where ("Etat différentiel" = "Modifié") Options(Select);

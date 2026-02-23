@@ -1,0 +1,1 @@
+Select From "Transport", "Piste d'aérodrome" Where ("Etat différentiel" = "Détruit") Options(Select);

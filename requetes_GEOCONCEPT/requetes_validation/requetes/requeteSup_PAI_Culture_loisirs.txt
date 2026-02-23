@@ -1,0 +1,1 @@
+Select From "Services et activités", "Zone d'activité ou d'intérêt" Where ("Catégorie" = "Culture et loisirs" And "Etat différentiel" = "Détruit") Options(Select);

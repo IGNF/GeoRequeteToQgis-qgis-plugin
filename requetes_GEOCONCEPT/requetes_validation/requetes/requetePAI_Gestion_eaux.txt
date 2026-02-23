@@ -1,0 +1,1 @@
+Select From "Services et activités", "Zone d'activité ou d'intérêt" Where ("Catégorie" = "Gestion des eaux" And "Etat différentiel" = "Créé") Options(Select);

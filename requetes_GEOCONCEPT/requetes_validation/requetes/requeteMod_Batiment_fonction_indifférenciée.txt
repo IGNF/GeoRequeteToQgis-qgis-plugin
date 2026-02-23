@@ -1,0 +1,1 @@
+Select From "Bâti", "Bâtiment" Where ("Usage 1" = "Indifférenciée" And "Etat différentiel" = "Modifié") Options(Select);

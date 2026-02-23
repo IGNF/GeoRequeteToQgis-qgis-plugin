@@ -1,0 +1,12 @@
+requeteMDCommunes.txt
+requeteMes communes.txt
+requete.Collecte_communale_MTD.txt
+requete.Collecte_communale.txt
+requete.Communes_a_voir_sur_le_terrain.txt
+requete.Evolutions_Alerte_terrain.txt
+requete.Ctrl_MaJBureau_A_Remplir.txt
+requete.Ctrl_DatePassageTerrain_A_Remplir.txt
+requete.Ctrl_TerrainPrevu_A_vider.txt
+requete.Ctrl_DateCollCommTerminee_A_Remplir.txt
+requete.Ctrl_AlerteDateActuIncoMaJBureau.txt
+requete.Ctrl_EvoDateActuIncoMaJBureau.txt

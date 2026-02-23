@@ -1,0 +1,1 @@
+Select From "ME Toponymie", "Table d'orientation" Where ("Etat différentiel" = "Créé") Options(Select);

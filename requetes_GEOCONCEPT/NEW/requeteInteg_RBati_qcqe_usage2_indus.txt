@@ -1,0 +1,2 @@
+Select From "Bâti", "Bâtiment" Where ("Usage 2" = "Industriel" And "Etat de l'objet" <> "En construction" And "Etat de l'objet" <> "En projet") Options(Select) Topo(Intersecting "Integ_Ptsuppr_bati_inters_bati_qcqe");
+Select From "R_Bâti", "R_Bâtiment" Options(Select) Topo(Intersecting Selection);

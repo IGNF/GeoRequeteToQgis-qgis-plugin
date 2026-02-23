@@ -1,0 +1,1 @@
+Select From "Transport", "Point du réseau" Where ("Etat différentiel" = "Détruit" And "Nature" = "Barrière") Options(Select);

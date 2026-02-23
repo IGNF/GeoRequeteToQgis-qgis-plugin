@@ -1,0 +1,1 @@
+Select From "Hydrographie", "Détail hydrographique" Where ("Etat différentiel" = "Créé") Options(Select);

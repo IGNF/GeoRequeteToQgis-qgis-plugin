@@ -1,0 +1,1 @@
+Select From "Transport", "Tronçon de route" Where (("Nature" = "Bac ou liaison maritime" Or "Nature" = "Route à 1 chaussée" Or "Nature" = "Route à 2 chaussées" Or "Nature" = "Type autoroutier" Or "Nature" = "Bretelle") And "Méthode d'acquisition planimétrique" <> "Levé GPS" And "Méthode d'acquisition altimétrique" <> "Pas de Z" And "Etat différentiel" = "Créé") Options(Select);

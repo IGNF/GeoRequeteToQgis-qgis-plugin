@@ -1,0 +1,1 @@
+Select From "Hydrographie", "Tronçon hydrographique" Where ("Persistance" = "Permanent" And "Méthode d'acquisition altimétrique" <> "Pas de Z" And "Etat différentiel" = "Détruit") Options(Select);

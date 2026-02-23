@@ -1,0 +1,6 @@
+requeteACID-V2_touristique.txt
+requeteACID-V2_touristique_musee_creation.txt
+requeteACID-V2_touristique_musee_suppression.txt
+requeteACID-V2_touristique_musee_validation.txt
+requeteACID-V2_touristique_musee_bdu_non_apparié.txt
+requeteACID-V2_liens_incoherents.txt

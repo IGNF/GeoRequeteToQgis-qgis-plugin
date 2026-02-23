@@ -1,0 +1,283 @@
+Veuillez supprimer la liste Adresse_a_la_plaque déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Adresse_calcul déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Adresse_centre_commune déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste Adresse_complement_adressage ne contient aucun objet. Elle n'est donc pas créée.
+Veuillez supprimer la liste Adresse_interpolée déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste Adresse_prélocalisé ne contient aucun objet. Elle n'est donc pas créée.
+Veuillez supprimer la liste Adresse_projetée_centre_parcelle déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste Adresse_terrain ne contient aucun objet. Elle n'est donc pas créée.
+Veuillez supprimer la liste Adresse_zone_adressage déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Alerte déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Barrière déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Batiment déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Batiment_fonction_indifférenciée déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Batiment_nature_indifférenciée déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Canalisation déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Cimetière déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste Commune ne contient aucun objet. Elle n'est donc pas créée.
+Veuillez supprimer la liste Construction_linéaire déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Construction_ponctuelle déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Construction_surfacique déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Cours_d_eau_nommé déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Evolution_ponctuelle déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Hydro_intermittent_avec_z déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Hydro_intermittent_sans_z déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste Hydro_permanent_sans_z contient 2 objets
+la liste est accessible dans l'assistant listesVeuillez supprimer la liste Hydro_permanent_avec_z déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Ligne_electrique déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Ligne_orographique déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste PAI_Culture_loisirs déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste PAI_Enseignement déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste PAI_Equipement_adm_mili déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste PAI_Espace_naturel déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste PAI_Gestion_eaux déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste PAI_Hydrographie ne contient aucun objet. Elle n'est donc pas créée.
+Veuillez supprimer la liste PAI_Industriel_commercial déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste PAI_Orographie ne contient aucun objet. Elle n'est donc pas créée.
+La liste PAI_Religieux ne contient aucun objet. Elle n'est donc pas créée.
+Veuillez supprimer la liste PAI_Santé déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste PAI_Sport déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste PAI_Total déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste PAI_Transport déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste PAI_Zone_habitation déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Piste_aérodrome déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste Poste_transfo ne contient aucun objet. Elle n'est donc pas créée.
+Veuillez supprimer la liste Pylône déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Réservoir déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Route_numérotée déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste Routes_non_revetues_avec_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Routes_non_revetues_levé_gps ne contient aucun objet. Elle n'est donc pas créée.
+Veuillez supprimer la liste Routes_non_revetues_sans_z déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste Routes_revetues_avec_z ne contient aucun objet. Elle n'est donc pas créée.
+Veuillez supprimer la liste Routes_revetues_levé_gps déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Routes_revetues_sans_z déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Surf_hydro_intermittent_avec_z déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Surf_hydro_intermittent_sans_z déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Surf_hydro_permanent_avec_z déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste Surf_hydro_permanent_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Surface_commune ne contient aucun objet. Elle n'est donc pas créée.
+Veuillez supprimer la liste Terrain_de_sport déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+Veuillez supprimer la liste Transport_par_cable déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste Tronçon_Laisse ne contient aucun objet. Elle n'est donc pas créée.
+La liste VF_nommée ne contient aucun objet. Elle n'est donc pas créée.
+La liste VF_principale_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste VF_principale_avec_z ne contient aucun objet. Elle n'est donc pas créée.
+Veuillez supprimer la liste VF_service_avec_z déjà existante car la requête l'ayant générée ne retourne plus d'objets.
+La liste VF_service_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste VF_spéciale_avec_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste VF_spéciale_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+
+Date du résultat : Friday, 17 January, 2014
+Heure du résultat : 15H,53M,21S
+
+La liste Mod_Adresse_a_la_plaque contient 224146 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Adresse_calcul contient 265232 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Adresse_centre_commune contient 2575 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Adresse_complement_adressage ne contient aucun objet. Elle n'est donc pas créée.
+La liste Mod_Adresse_interpolée contient 39693 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Adresse_prélocalisé contient 123227 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Adresse_projetée_centre_parcelle contient 120401 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Adresse_terrain ne contient aucun objet. Elle n'est donc pas créée.
+La liste Mod_Adresse_zone_adressage contient 1644 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Alerte contient 225 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Barrière contient 2 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Batiment contient 1086 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Batiment_fonction_indifférenciée contient 586 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Batiment_nature_indifférenciée contient 273 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Canalisation contient 2 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Cimetière contient 5 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Commune contient 763 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Construction_linéaire contient 110 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Construction_ponctuelle contient 4 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Construction_surfacique contient 2 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Cours_d_eau_nommé contient 15 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Evolution_ponctuelle contient 139 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Hydro_intermittent_avec_z contient 165 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Hydro_intermittent_sans_z contient 9 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Hydro_permanent_sans_z contient 2 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Hydro_permanent_avec_z contient 196 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Ligne_electrique contient 1 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Ligne_orographique contient 74 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Culture_loisirs contient 610 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Enseignement contient 1113 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Equipement_adm_mili contient 435 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Espace_naturel contient 25 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Gestion_eaux contient 153 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Hydrographie contient 104 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Industriel_commercial contient 177 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Orographie contient 1 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Religieux contient 52 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Santé contient 232 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Sport contient 259 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Total contient 5200 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Transport contient 474 objets
+la liste est accessible dans l'assistant listesLa liste Mod_PAI_Zone_habitation contient 1516 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Piste_aérodrome contient 3 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Poste_transfo ne contient aucun objet. Elle n'est donc pas créée.
+La liste Mod_Pylône ne contient aucun objet. Elle n'est donc pas créée.
+La liste Mod_Réservoir contient 1 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Route_numérotée contient 16 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Routes_non_revetues contient 991 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Routes_revetues contient 35804 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Surf_hydro_intermittent_avec_z contient 31 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Surf_hydro_intermittent_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Mod_Surf_hydro_permanent_avec_z contient 75 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Surf_hydro_permanent_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Mod_Surface_commune contient 763 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Terrain_de_sport contient 27 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Transport_par_cable contient 2 objets
+la liste est accessible dans l'assistant listesLa liste Mod_Tronçon_Laisse ne contient aucun objet. Elle n'est donc pas créée.
+La liste Mod_VF_nommée ne contient aucun objet. Elle n'est donc pas créée.
+La liste Mod_VF_principale_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Mod_VF_principale_avec_z contient 2 objets
+la liste est accessible dans l'assistant listesLa liste Mod_VF_service_avec_z contient 1 objets
+la liste est accessible dans l'assistant listesLa liste Mod_VF_service_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Mod_VF_spéciale_avec_z contient 3 objets
+la liste est accessible dans l'assistant listesLa liste Mod_VF_spéciale_sans_z contient 1 objets
+la liste est accessible dans l'assistant listes
+Date du résultat : Friday, 17 January, 2014
+Heure du résultat : 15H,54M,29S
+
+La liste Sup_Adresse_a_la_plaque contient 1483 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Adresse_calcul contient 31418 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Adresse_centre_commune contient 3966 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Adresse_complement_adressage ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_Adresse_interpolée contient 15959 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Adresse_prélocalisé ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_Adresse_projetée_centre_parcelle contient 8745 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Adresse_terrain ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_Adresse_zone_adressage contient 1265 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Alerte contient 816 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Barrière contient 1 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Batiment contient 4533 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Batiment_fonction_indifférenciée contient 4463 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Batiment_nature_indifférenciée contient 4176 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Canalisation contient 19 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Cimetière contient 25 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Commune ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_Construction_linéaire contient 373 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Construction_ponctuelle contient 106 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Construction_surfacique contient 4 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Cours_d_eau_nommé contient 2 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Evolution_ponctuelle contient 34 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Hydro_intermittent_avec_z contient 59 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Hydro_intermittent_sans_z contient 1 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Hydro_permanent_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_Hydro_permanent_avec_z contient 10 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Ligne_electrique contient 15 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Ligne_orographique contient 216 objets
+la liste est accessible dans l'assistant listesLa liste Sup_PAI_Culture_loisirs contient 12 objets
+la liste est accessible dans l'assistant listesLa liste Sup_PAI_Enseignement contient 16 objets
+la liste est accessible dans l'assistant listesLa liste Sup_PAI_Equipement_adm_mili contient 42 objets
+la liste est accessible dans l'assistant listesLa liste Sup_PAI_Espace_naturel contient 23 objets
+la liste est accessible dans l'assistant listesLa liste Sup_PAI_Gestion_eaux contient 4 objets
+la liste est accessible dans l'assistant listesLa liste Sup_PAI_Hydrographie ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_PAI_Industriel_commercial contient 3 objets
+la liste est accessible dans l'assistant listesLa liste Sup_PAI_Orographie ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_PAI_Religieux ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_PAI_Santé contient 4 objets
+la liste est accessible dans l'assistant listesLa liste Sup_PAI_Sport contient 7 objets
+la liste est accessible dans l'assistant listesLa liste Sup_PAI_Total contient 137 objets
+la liste est accessible dans l'assistant listesLa liste Sup_PAI_Transport contient 3 objets
+la liste est accessible dans l'assistant listesLa liste Sup_PAI_Zone_habitation contient 7 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Piste_aérodrome contient 8 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Poste_transfo ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_Pylône contient 21 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Réservoir contient 21 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Route_numérotée contient 1 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Routes_non_revetues_levé_gps ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_Routes_non_revetues_sans_z contient 6 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Routes_revetues_levé_gps contient 93 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Routes_revetues_sans_z contient 169 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Surf_hydro_intermittent_avec_z contient 41 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Surf_hydro_intermittent_sans_z contient 1 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Surf_hydro_permanent_avec_z contient 85 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Surf_hydro_permanent_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_Surface_commune ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_Terrain_de_sport contient 89 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Transport_par_cable contient 7 objets
+la liste est accessible dans l'assistant listesLa liste Sup_Tronçon_Laisse ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_VF_nommée ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_VF_principale_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_VF_principale_avec_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_VF_service_avec_z contient 2 objets
+la liste est accessible dans l'assistant listesLa liste Sup_VF_service_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_VF_spéciale_avec_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Sup_VF_spéciale_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+
+Date du résultat : Friday, 17 January, 2014
+Heure du résultat : 15H,57M,39S
+
+La liste Adresse_a_la_plaque contient 18536 objets
+la liste est accessible dans l'assistant listesLa liste Adresse_calcul contient 56506 objets
+la liste est accessible dans l'assistant listesLa liste Adresse_centre_commune contient 3400 objets
+la liste est accessible dans l'assistant listesLa liste Adresse_complement_adressage ne contient aucun objet. Elle n'est donc pas créée.
+La liste Adresse_interpolée contient 30107 objets
+la liste est accessible dans l'assistant listesLa liste Adresse_prélocalisé contient 16367 objets
+la liste est accessible dans l'assistant listesLa liste Adresse_projetée_centre_parcelle contient 18549 objets
+la liste est accessible dans l'assistant listesLa liste Adresse_terrain ne contient aucun objet. Elle n'est donc pas créée.
+La liste Adresse_zone_adressage contient 2281 objets
+la liste est accessible dans l'assistant listesLa liste Alerte contient 241 objets
+la liste est accessible dans l'assistant listesLa liste Barrière contient 324 objets
+la liste est accessible dans l'assistant listesLa liste Batiment contient 31967 objets
+la liste est accessible dans l'assistant listesLa liste Batiment_sans_Z contient 58 objets
+la liste est accessible dans l'assistant listesLa liste Batiment_fonction_indifférenciée contient 31661 objets
+la liste est accessible dans l'assistant listesLa liste Batiment_nature_indifférenciée contient 29190 objets
+la liste est accessible dans l'assistant listesLa liste Canalisation contient 34 objets
+la liste est accessible dans l'assistant listesLa liste Cimetière contient 29 objets
+la liste est accessible dans l'assistant listesLa liste Commune ne contient aucun objet. Elle n'est donc pas créée.
+La liste Construction_linéaire contient 399 objets
+la liste est accessible dans l'assistant listesLa liste Construction_ponctuelle contient 145 objets
+la liste est accessible dans l'assistant listesLa liste Construction_surfacique contient 10 objets
+la liste est accessible dans l'assistant listesLa liste Cours_d_eau_nommé contient 11 objets
+la liste est accessible dans l'assistant listesLa liste Evolution_ponctuelle contient 17 objets
+la liste est accessible dans l'assistant listesLa liste Hydro_intermittent_avec_z contient 183 objets
+la liste est accessible dans l'assistant listesLa liste Hydro_intermittent_sans_z contient 13 objets
+la liste est accessible dans l'assistant listesLa liste Hydro_permanent_sans_z contient 7 objets
+la liste est accessible dans l'assistant listesLa liste Hydro_permanent_avec_z contient 60 objets
+la liste est accessible dans l'assistant listesLa liste Ligne_electrique contient 21 objets
+la liste est accessible dans l'assistant listesLa liste Ligne_orographique contient 298 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Culture_loisirs contient 138 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Enseignement contient 40 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Equipement_adm_mili contient 14 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Espace_naturel ne contient aucun objet. Elle n'est donc pas créée.
+La liste PAI_Gestion_eaux contient 20 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Hydrographie contient 1 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Industriel_commercial contient 31 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Orographie ne contient aucun objet. Elle n'est donc pas créée.
+La liste PAI_Religieux contient 140 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Santé contient 11 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Sport contient 26 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Total contient 1885 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Transport contient 29 objets
+la liste est accessible dans l'assistant listesLa liste PAI_Zone_habitation contient 1406 objets
+la liste est accessible dans l'assistant listesLa liste Piste_aérodrome contient 9 objets
+la liste est accessible dans l'assistant listesLa liste Poste_transfo contient 1 objets
+la liste est accessible dans l'assistant listesLa liste Pylône contient 21 objets
+la liste est accessible dans l'assistant listesLa liste Réservoir contient 88 objets
+la liste est accessible dans l'assistant listesLa liste Route_numérotée contient 2 objets
+la liste est accessible dans l'assistant listesLa liste Routes_non_revetues_avec_z contient 218 objets
+la liste est accessible dans l'assistant listesLa liste Routes_non_revetues_levé_gps contient 6 objets
+la liste est accessible dans l'assistant listesLa liste Routes_non_revetues_sans_z contient 61 objets
+la liste est accessible dans l'assistant listesLa liste Routes_revetues_avec_z contient 4893 objets
+la liste est accessible dans l'assistant listesLa liste Routes_revetues_levé_gps contient 1071 objets
+la liste est accessible dans l'assistant listesLa liste Routes_revetues_sans_z contient 164 objets
+la liste est accessible dans l'assistant listesLa liste Surf_hydro_intermittent_avec_z contient 394 objets
+la liste est accessible dans l'assistant listesLa liste Surf_hydro_intermittent_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Surf_hydro_permanent_avec_z contient 171 objets
+la liste est accessible dans l'assistant listesLa liste Surf_hydro_permanent_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste Surface_commune ne contient aucun objet. Elle n'est donc pas créée.
+La liste Terrain_de_sport contient 156 objets
+la liste est accessible dans l'assistant listesLa liste Transport_par_cable contient 1 objets
+la liste est accessible dans l'assistant listesLa liste Tronçon_Laisse ne contient aucun objet. Elle n'est donc pas créée.
+La liste VF_nommée ne contient aucun objet. Elle n'est donc pas créée.
+La liste VF_principale_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste VF_principale_avec_z contient 2 objets
+la liste est accessible dans l'assistant listesLa liste VF_service_avec_z contient 1 objets
+la liste est accessible dans l'assistant listesLa liste VF_service_sans_z ne contient aucun objet. Elle n'est donc pas créée.
+La liste VF_spéciale_avec_z contient 1 objets
+la liste est accessible dans l'assistant listesLa liste VF_spéciale_sans_z contient 2 objets
+la liste est accessible dans l'assistant listes
+Date du résultat : Friday, 17 January, 2014
+Heure du résultat : 16H,05M,31S
+

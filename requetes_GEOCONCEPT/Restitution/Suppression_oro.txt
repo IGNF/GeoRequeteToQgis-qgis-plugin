@@ -1,0 +1,2 @@
+requeteReq_Pts_suppr_oro.txt
+requeteReq_Oro_suppr.txt

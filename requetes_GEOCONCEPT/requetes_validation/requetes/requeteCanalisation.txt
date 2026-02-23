@@ -1,0 +1,1 @@
+Select From "Services et activités", "Canalisation" Where ("Etat différentiel" = "Créé") Options(Select);

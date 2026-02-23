@@ -1,0 +1,1 @@
+Select From "Hydrographie", "Surface hydrographique" Where ("Persistance" = "Intermittent" And "Méthode d'acquisition altimétrique" = "Pas de Z" And "Etat différentiel" = "Modifié") Options(Select);

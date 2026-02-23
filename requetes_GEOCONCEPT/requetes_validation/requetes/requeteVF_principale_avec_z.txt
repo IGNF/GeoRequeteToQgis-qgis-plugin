@@ -1,0 +1,1 @@
+Select From "Transport", "Tronçon de voie ferrée" Where (("Nature" = "TGV" Or "Nature" = "Voie ferrée principale") And "Méthode d'acquisition altimétrique" <> "Pas de Z" And "Etat différentiel" = "Créé") Options(Select);

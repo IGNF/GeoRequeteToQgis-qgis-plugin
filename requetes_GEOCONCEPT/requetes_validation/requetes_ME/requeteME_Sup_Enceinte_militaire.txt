@@ -1,0 +1,1 @@
+Select From "ME Equipement", "Enceinte militaire" Where ("Etat différentiel" = "Détruit") Options(Select);

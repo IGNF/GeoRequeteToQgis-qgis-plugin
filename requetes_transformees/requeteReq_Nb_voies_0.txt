@@ -1,0 +1,9 @@
+--LAYER=troncon_de_route
+--MODE=SELECT
+
+"fictif" != '1' 
+AND "nombre_de_voies" = '0' 
+AND "nature" != 'Bac ou liaison maritime' 
+AND "etat_de_l_objet" != 'En construction' 
+AND "etat_de_l_objet" != 'En projet' 
+AND 'Source restitution' = <'Source de restitution ='>

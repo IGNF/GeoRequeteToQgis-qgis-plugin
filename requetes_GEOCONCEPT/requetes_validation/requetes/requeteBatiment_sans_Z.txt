@@ -1,0 +1,1 @@
+Select From "Bâti", "Bâtiment" Where ("Etat différentiel" = "Créé" And "Méthode d'acquisition altimétrique" = "Pas de Z") Options(Select);

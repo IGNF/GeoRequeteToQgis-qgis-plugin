@@ -1,0 +1,1 @@
+Select From "Adresses", "Adresse" Where ("Etat différentiel" = "Modifié" And "Méthode" = "Prélocalisé") Options(Select);

@@ -1,0 +1,1 @@
+Select From "Adresses", "Adresse" Where ("Etat différentiel" = "Créé" And "Type de localisation" = "Projection") Options(Select);

@@ -1,0 +1,1 @@
+Select From "ME Réseau routier", "Route numérotée" Where ("Etat différentiel" = "Détruit") Options(Select);

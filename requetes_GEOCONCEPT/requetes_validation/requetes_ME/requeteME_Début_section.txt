@@ -1,0 +1,1 @@
+Select From "ME Réseau routier", "Début de section" Where ("Etat différentiel" = "Créé") Options(Select);

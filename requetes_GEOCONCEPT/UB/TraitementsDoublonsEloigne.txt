@@ -1,0 +1,3 @@
+requeteUB_ColoriageBDU.txt
+requeteUB_ColoriageBDP.txt
+requeteUB_DoublonPotentiel.txt

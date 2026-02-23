@@ -1,0 +1,12 @@
+--LAYER=troncon_de_route
+--MODE=SELECT
+
+"largeur_de_chaussee" = <No Value> 
+AND "nature" != 'Sentier' 
+AND "nature" != 'Route empierrée' 
+AND "nature" != 'Piste cyclable' 
+AND "nature" != 'Escalier' 
+AND "nature" != 'Chemin' 
+AND "etat_de_l_objet" != 'En construction' 
+AND "etat_de_l_objet" != 'En projet' 
+AND 'Source restitution' = <'Source de restitution ='>

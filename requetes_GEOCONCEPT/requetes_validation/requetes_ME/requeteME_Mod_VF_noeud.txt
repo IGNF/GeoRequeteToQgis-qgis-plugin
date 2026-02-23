@@ -1,0 +1,1 @@
+Select From "ME Réseau ferré", "Ligne ferrée" Where ("Etat différentiel" = "Modifié") Options(Select);

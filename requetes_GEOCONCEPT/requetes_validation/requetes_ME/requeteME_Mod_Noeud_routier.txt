@@ -1,0 +1,1 @@
+Select From "ME Réseau routier", "Noeud du réseau routier" Where ("Etat différentiel" = "Modifié") Options(Select);

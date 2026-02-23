@@ -1,0 +1,1 @@
+Select From "Bâti", "Ligne orographique" Where ("Etat différentiel" = "Créé") Options(Select);

@@ -1,0 +1,12 @@
+requeteACID-V2_touristique_dtso.txt
+requeteACID-V2_touristiq_zai_creation.txt
+requeteACID-V2_touristiq_zai_modification.txt
+requeteACID-V2_touristiq_zai_bdu_non_apparie.txt
+requeteACID-V2_touristiq_zh_creation.txt
+requeteACID-V2_touristiq_zh_modification.txt
+requeteACID-V2_touristiq_zh_bdu_non_apparie.txt
+requeteACID-V2_touristiq_autre_creation.txt
+requeteACID-V2_touristiq_autre_modification.txt
+requeteACID-V2_touristiq_autre_bdu_non_apparie.txt
+
+

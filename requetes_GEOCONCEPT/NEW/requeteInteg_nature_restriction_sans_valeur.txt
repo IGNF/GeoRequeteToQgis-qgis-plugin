@@ -1,0 +1,1 @@
+Select From "R_Transport", "R_Tronçon de route" Where ("Nature de la restriction" = "Sans valeur") Options(Select);

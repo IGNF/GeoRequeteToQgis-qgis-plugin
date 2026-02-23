@@ -1,0 +1,1 @@
+Select From "Lieux nommés", "Lieu-dit non habité" Where ("Etat différentiel" = "Créé") Options(Select);

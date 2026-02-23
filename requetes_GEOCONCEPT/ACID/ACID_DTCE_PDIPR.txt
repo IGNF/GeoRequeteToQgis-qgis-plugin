@@ -1,0 +1,7 @@
+requeteACID_DTCE_PDIPR_continuite.txt
+requeteACID_DTCE_PDIPR_divergence_creation.txt
+requeteACID_DTCE_PDIPR_divergence_suppression.txt
+requeteACID_DTCE_PDIPR_iti_creation_auto.txt
+requeteACID_DTCE_PDIPR_iti_confirmation_auto.txt
+requeteACID_DTCE_PDIPR_iti_non_partenaire.txt
+requeteACID-V2_liens_incoherents.txt

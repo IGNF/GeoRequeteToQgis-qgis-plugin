@@ -1,0 +1,1 @@
+Select From "Bâti", "Cimetière" Where ("Etat différentiel" = "Modifié") Options(Select);
