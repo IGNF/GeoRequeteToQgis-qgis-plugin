@@ -1,6 +1,7 @@
 mapping_type_sstype = {
     '"Transport", "Tronçon de route"': "troncon_de_route",
-    '"Documentaire", "Evolution ponctuelle"' : "documentaire"
+    '"Documentaire", "Evolution ponctuelle"' : "documentaire",
+    '"Services et activités", "Zone d\'activité ou d\'intérêt"': "zone_d_activite_ou_d_interet",
 }
 
 mapping_champ = {

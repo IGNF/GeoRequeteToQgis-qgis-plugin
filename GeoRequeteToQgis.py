@@ -1,5 +1,6 @@
 import os
 import shutil
+import sqlite3
 import stat
 import sys
 from datetime import datetime
@@ -194,6 +195,70 @@ class GeoRequeteToQgis():
             with open(fichier_transforme, "w", encoding="utf-8") as f_out:
                 f_out.write(expression_qgis)
 
+    def convert_requete_to_sql(self,dossier):
+        """
+            Version plus robuste utilisant des expressions régulières pour extraire les différentes parties de la requête.
+            Permet de mieux gérer les variations de syntaxe et les cas particuliers.
+            """
+
+        # sql = """ SELECT r.* FROM TRONCON_ROUTE AS r JOIN COMMUNE AS c ON ST_Intersects(r.geometry, c.geometry) WHERE c.insee = '75056'; """
+        DB_PATH = "path_to_your_spatialite_db.sqlite"
+
+        for fic in self.list_fic_requete:
+            print(fic)
+
+            # test si le fichier est enregistré en unicode ou autre
+            try:
+                with open(fic, "r", encoding="utf-8") as f:
+                    query = f.read().strip()
+            except UnicodeDecodeError:
+                with open(fic, "r", encoding="latin-1") as f:
+                    query = f.read().strip()
+
+            print("Requête originale :\n", query)
+
+            query = query.replace("Select From", "SELECT * FROM")
+            query = query.replace("= <No Value>", "IS NULL")
+            query = query.replace('<"','"')
+            query = query.replace('">', '"')
+
+            # mapping type , sous_type --> layer qgis
+            for type_ss_type, champQGIS in mapping_type_sstype.items():
+                print(f"champGEO = {type_ss_type}, correspondance = {champQGIS}")
+                if type_ss_type in query:
+                    print("correspondance de type_ss_type trouvé :", type_ss_type, "-->", champQGIS)
+                    query = query.replace(f"{type_ss_type}", f"{champQGIS}")
+
+            # mapping champ geo --> champ qgis
+            for champGEO, champQGIS in mapping_champ.items():
+                print(f"champGEO = {champGEO}, correspondance = {champQGIS}")
+                if champGEO in query:
+                    query = query.replace(f"{champGEO}", f"{champQGIS}")
+
+            print("Requête transforme :\n", query)
+
+            # Écrire dans un nouveau fichier dans le dossier output
+            parent = Path(dossier).parent
+            nouveau_dossier = "requetes_transformees"
+            nouveau_dossier = parent / nouveau_dossier
+            # Crée le dossier s'il n'existe pas déjà
+            nouveau_dossier.mkdir(parents=True, exist_ok=True)
+
+            nom_fic = Path(fic).name
+            # print("fichier sortie = ",nom_fic)
+            fichier_transforme = Path(nouveau_dossier) / nom_fic
+            with open(fichier_transforme, "w", encoding="utf-8") as f_out:
+                f_out.write(query)
+        # conn = sqlite3.connect(DB_PATH)
+        # conn.enable_load_extension(True)
+        # # Charger SpatiaLite
+        # conn.load_extension("mod_spatialite")
+        # cur = conn.cursor()
+        # cur.execute(query)
+        # rows = cur.fetchall()
+        # conn.close()
+        # return rows
+
 
 
 if __name__ == "__main__":
@@ -205,7 +270,8 @@ if __name__ == "__main__":
         print(f"Dossier choisi : {dossier}")
         geo.get_fic_requete(dossier)
         # geo.convert_requete(dossier)
-        geo.convert_requete2(dossier)
+        # geo.convert_requete2(dossier)
+        geo.convert_requete_to_sql(dossier)
 
 
 
