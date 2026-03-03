@@ -1,5 +1,6 @@
 requetes/
 requetes_transformees/
+all_requetes/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
